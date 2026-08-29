@@ -1,0 +1,34 @@
+{
+  "video_path": "C:\\Users\\HP\\Desktop\\internship submissio\\telegram video.mp4",
+  "video_duration_sec": 9.41,
+  "video_duration_mmss": "0:09",
+  "total_frames": 212,
+  "fps": 22.53,
+  "sampled_frames_count": 43,
+  "processing_time_sec": 8.18,
+  "processing_speed_fps": 25.93,
+  "person_appearances_count": 3,
+  "transitions": [
+    {
+      "event": "Person First Appeared",
+      "timestamp_sec": 0.0,
+      "timestamp_mmss": "0:00",
+      "confidence": 0.8777,
+      "frame_number": 0
+    },
+    {
+      "event": "Person First Appeared",
+      "timestamp_sec": 4.66,
+      "timestamp_mmss": "0:04",
+      "confidence": 0.5778,
+      "frame_number": 105
+    },
+    {
+      "event": "Person First Appeared",
+      "timestamp_sec": 8.43,
+      "timestamp_mmss": "0:08",
+      "confidence": 0.6884,
+      "frame_number": 190
+    }
+  ]
+}
